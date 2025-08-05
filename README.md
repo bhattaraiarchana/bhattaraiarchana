@@ -53,7 +53,7 @@
 ### 🔥 GitHub Streaks
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhattaraiarchana&theme=tokyonight&cache_bust=1" />
+  <img src="https://streak-stats.demolab.com?user=bhattaraiarchana&theme=tokyonight&cache_bust=1" />
 </p>
 
 ---
